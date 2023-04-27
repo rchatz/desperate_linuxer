@@ -1,4 +1,4 @@
-👋 About Me
+## 👋 About Me
 
 Hi there! I'm Chatzigeorgiou Roza, a software engineer based in Athens, Greece. My passion is to develop innovative software solutions that solve real-world problems.
 
