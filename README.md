@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi there! I'm Chatzigeorgiou Roza, a software developer based in Athens, Greece. My passion is to develop innovative software solutions that solve real-world problems.
+Hi there! I'm Chatzigeorgiou Roza, a software engineer based in Athens, Greece. My passion is to develop innovative software solutions that solve real-world problems.
 
 👨‍💻 I love to work with Python, C, C++, MATLAB and the Unity Game Engine.
 
