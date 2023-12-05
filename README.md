@@ -1,7 +1,11 @@
 ## 👋 About Me
 
-Hi there! I'm Chatzigeorgiou Roza, a software engineer based in Athens, Greece. My passion is to develop innovative software solutions that solve real-world problems.
+Hi there! I'm a software engineer based in Greece, currently working @AgileActors. My passion is to develop innovative software solutions that solve real-world problems.
 
-🤝 Feel free to connect with me through e-mail or linkedin to discuss collaboration or just say hi.
+### 🤝 Contact Me
+
+- **Email:** [rozaxatz@gmail.com](mailto:rozaxatz@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rozachatz/)
+  
 
 Thanks for visiting my page!
