@@ -1,11 +1,11 @@
 ## 👋 About Me
 
-Hi there! I'm a software engineer based in Greece, currently working @AgileActors. My passion is to develop innovative software solutions that solve real-world problems.
+Hi there! I'm a software engineer and researcher, currently working @ Agile Actors. 
 
 ### 🤝 Contact Me
 
 - **Email:** [rozaxatz@gmail.com](mailto:rozaxatz@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/rozachatz/)
+- **LinkedIn:** [linkedin.com/in/rozachatz](https://www.linkedin.com/in/rozachatz/)
   
 
 Thanks for visiting my page!
